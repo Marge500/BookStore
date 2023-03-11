@@ -1,0 +1,21 @@
+﻿  BookSotore.cpp
+D:\School work\Hwk sht\Actual hwk\BookStore\BookSotore.cpp(40,3): error C2065: 'BookFeature': undeclared identifier
+D:\School work\Hwk sht\Actual hwk\BookStore\BookSotore.cpp(40,15): error C2146: syntax error: missing ';' before identifier 'bookFT'
+D:\School work\Hwk sht\Actual hwk\BookStore\BookSotore.cpp(40,15): error C2065: 'bookFT': undeclared identifier
+D:\School work\Hwk sht\Actual hwk\BookStore\BookSotore.cpp(50,4): error C2065: 'bookFT': undeclared identifier
+D:\School work\Hwk sht\Actual hwk\BookStore\BookSotore.cpp(53,4): error C2065: 'bookFT': undeclared identifier
+D:\School work\Hwk sht\Actual hwk\BookStore\BookSotore.cpp(57,4): error C2065: 'bookFT': undeclared identifier
+D:\School work\Hwk sht\Actual hwk\BookStore\BookSotore.cpp(61,4): error C2065: 'bookFT': undeclared identifier
+D:\School work\Hwk sht\Actual hwk\BookStore\BookSotore.cpp(86,3): error C2065: 'BookFeature': undeclared identifier
+D:\School work\Hwk sht\Actual hwk\BookStore\BookSotore.cpp(86,15): error C2146: syntax error: missing ';' before identifier 'bookFT'
+D:\School work\Hwk sht\Actual hwk\BookStore\BookSotore.cpp(86,15): error C2065: 'bookFT': undeclared identifier
+D:\School work\Hwk sht\Actual hwk\BookStore\BookSotore.cpp(97,4): error C2065: 'bookFT': undeclared identifier
+D:\School work\Hwk sht\Actual hwk\BookStore\BookSotore.cpp(100,4): error C2065: 'bookFT': undeclared identifier
+D:\School work\Hwk sht\Actual hwk\BookStore\BookSotore.cpp(104,4): error C2065: 'bookFT': undeclared identifier
+D:\School work\Hwk sht\Actual hwk\BookStore\BookSotore.cpp(108,4): error C2065: 'bookFT': undeclared identifier
+D:\School work\Hwk sht\Actual hwk\BookStore\BookSotore.cpp(234,21): warning C4018: '<': signed/unsigned mismatch
+D:\School work\Hwk sht\Actual hwk\BookStore\BookSotore.cpp(243,21): warning C4018: '<': signed/unsigned mismatch
+D:\School work\Hwk sht\Actual hwk\BookStore\BookSotore.cpp(251,21): warning C4018: '<': signed/unsigned mismatch
+D:\School work\Hwk sht\Actual hwk\BookStore\BookSotore.cpp(305,21): warning C4018: '<': signed/unsigned mismatch
+D:\School work\Hwk sht\Actual hwk\BookStore\BookSotore.cpp(376,23): error C2535: 'void Login::employeeLogin(void)': member function already defined or declared
+D:\School work\Hwk sht\Actual hwk\BookStore\BookSotore.cpp(347): message : see declaration of 'Login::employeeLogin'
